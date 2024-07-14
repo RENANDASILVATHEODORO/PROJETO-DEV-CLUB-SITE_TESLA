@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo tesla " src=".img/logo.png" width="200px" />
+  <img alt="Logo tesla " src=".imagem/logo.png" width="200px" />
 </p>
 
 <p align="center">
