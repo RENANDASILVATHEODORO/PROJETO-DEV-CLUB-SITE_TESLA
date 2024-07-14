@@ -30,4 +30,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Nesse projeto iremos desenvolver uma versão simplificada de um sistema de roteiro de viagem!# nlw-jornada-html-css-js
+Nesse projeto iremos desenvolver uma versão simplificada clone do site da Tesla!#
